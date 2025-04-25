@@ -1,3 +1,4 @@
+#!/bin/python
 from pathlib import Path
 import json
 from sys import stderr, argv
